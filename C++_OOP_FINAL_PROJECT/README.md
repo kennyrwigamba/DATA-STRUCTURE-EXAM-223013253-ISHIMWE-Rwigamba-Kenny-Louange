@@ -15,7 +15,7 @@ C++ program that performs matrix operations using inheritance and polymorphism.
 - **Multiplication**: Multiplies two matrices (A columns = B rows)
 - **Transpose**: Flips matrix rows and columns
 
-## Example Output
+## Output
 
 ```
 Matrix A (2x3):
